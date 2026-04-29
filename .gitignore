@@ -1,0 +1,4 @@
+WMT_LabTest_Project/**/node_modules/
+WMT_LabTest_Project/**/dist/
+WMT_LabTest_Project/**/.env
+WMT_LabTest_Project/**/.DS_Store
